@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"H:/DevOps Course/EFE/Projects/WorkShops/Project 1/Workshop/Vagrant-Manual-Automation/Automation","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
